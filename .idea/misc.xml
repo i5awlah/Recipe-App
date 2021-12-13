@@ -7,7 +7,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/activity_new_recipe.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/new_recipe.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/recipe_row.xml" value="0.11927083333333334" />
+        <entry key="app/src/main/res/layout/recipe_row.xml" value="0.25" />
       </map>
     </option>
   </component>
